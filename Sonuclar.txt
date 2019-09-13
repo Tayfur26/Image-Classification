@@ -1,0 +1,1537 @@
+
+ Test edilen :test\Dog_Afghan\Afghan_ (65).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9967179894447327
+ Test edilen :test\Dog_Afghan\Afghan_ (66).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9986169338226318
+ Test edilen :test\Dog_Afghan\Afghan_ (67).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9971209168434143
+ Test edilen :test\Dog_Afghan\Afghan_ (68).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9814204573631287
+ Test edilen :test\Dog_Afghan\Afghan_ (69).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9935577511787415
+ Test edilen :test\Dog_Afghan\Afghan_ (70).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9985369443893433
+ Test edilen :test\Dog_Afghan\Afghan_ (71).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9972930550575256
+ Test edilen :test\Dog_Afghan\Afghan_ (72).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9974362254142761
+ Test edilen :test\Dog_Afghan\Afghan_ (73).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9900721311569214
+ Test edilen :test\Dog_Afghan\Afghan_ (74).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9960970282554626
+ Test edilen :test\Dog_Afghan\Afghan_ (75).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9983819723129272
+ Test edilen :test\Dog_Afghan\Afghan_ (76).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9956531524658203
+ Test edilen :test\Dog_Afghan\Afghan_ (77).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9969701766967773
+ Test edilen :test\Dog_Afghan\Afghan_ (78).jpg
+ Test sonucu :dog afghan
+ Test orani :0.996638298034668
+ Test edilen :test\Dog_Afghan\Afghan_ (79).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9991173148155212
+ Test edilen :test\Dog_Afghan\Afghan_ (80).jpg
+ Test sonucu :dog afghan
+ Test orani :0.998584508895874
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (65).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.8942422270774841
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (66).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9970219731330872
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (67).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9591385126113892
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (68).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9992484450340271
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (69).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9750237464904785
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (70).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9962705373764038
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (71).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9991880059242249
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (72).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9939411878585815
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (73).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.995445966720581
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (74).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9995917677879333
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (75).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9652789235115051
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (76).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.992790937423706
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (77).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9783017635345459
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (78).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9963091015815735
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (79).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9956228137016296
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (80).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9981406927108765
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (65).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9930544495582581
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (66).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9962260723114014
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (67).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9984738230705261
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (68).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9980321526527405
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (69).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9990091323852539
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (70).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9947229623794556
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (71).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.993405818939209
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (72).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9959186911582947
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (73).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9977319240570068
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (74).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9960448145866394
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (75).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9940443634986877
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (76).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9983327984809875
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (77).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9975849390029907
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (78).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9972680807113647
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (79).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9982150793075562
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (80).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9977021813392639
+ Test edilen :test\Dog_Beagle\Beagle_ (65).jpg
+ Test sonucu :dog beagle
+ Test orani :0.997948944568634
+ Test edilen :test\Dog_Beagle\Beagle_ (66).jpg
+ Test sonucu :dog beagle
+ Test orani :0.998229444026947
+ Test edilen :test\Dog_Beagle\Beagle_ (67).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9967973828315735
+ Test edilen :test\Dog_Beagle\Beagle_ (68).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9971146583557129
+ Test edilen :test\Dog_Beagle\Beagle_ (69).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9948246479034424
+ Test edilen :test\Dog_Beagle\Beagle_ (70).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9582271575927734
+ Test edilen :test\Dog_Beagle\Beagle_ (71).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9892204403877258
+ Test edilen :test\Dog_Beagle\Beagle_ (72).jpg
+ Test sonucu :dog beagle
+ Test orani :0.999110996723175
+ Test edilen :test\Dog_Beagle\Beagle_ (73).jpg
+ Test sonucu :dog beagle
+ Test orani :0.993501603603363
+ Test edilen :test\Dog_Beagle\Beagle_ (74).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9899739027023315
+ Test edilen :test\Dog_Beagle\Beagle_ (75).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9974926710128784
+ Test edilen :test\Dog_Beagle\Beagle_ (76).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9994588494300842
+ Test edilen :test\Dog_Beagle\Beagle_ (77).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9932472705841064
+ Test edilen :test\Dog_Beagle\Beagle_ (78).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9893171191215515
+ Test edilen :test\Dog_Beagle\Beagle_ (79).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9994151592254639
+ Test edilen :test\Dog_Beagle\Beagle_ (80).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9859573841094971
+ Test edilen :test\Dog_Borzoi\Borzoi_ (65).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9960522651672363
+ Test edilen :test\Dog_Borzoi\Borzoi_ (66).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9975804090499878
+ Test edilen :test\Dog_Borzoi\Borzoi_ (67).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9984174966812134
+ Test edilen :test\Dog_Borzoi\Borzoi_ (68).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9993343949317932
+ Test edilen :test\Dog_Borzoi\Borzoi_ (69).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9994364380836487
+ Test edilen :test\Dog_Borzoi\Borzoi_ (70).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9989816546440125
+ Test edilen :test\Dog_Borzoi\Borzoi_ (71).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.994057297706604
+ Test edilen :test\Dog_Borzoi\Borzoi_ (72).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9983707070350647
+ Test edilen :test\Dog_Borzoi\Borzoi_ (73).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.995554506778717
+ Test edilen :test\Dog_Borzoi\Borzoi_ (74).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9991658926010132
+ Test edilen :test\Dog_Borzoi\Borzoi_ (75).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9974361062049866
+ Test edilen :test\Dog_Borzoi\Borzoi_ (76).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9875195026397705
+ Test edilen :test\Dog_Borzoi\Borzoi_ (77).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9965251088142395
+ Test edilen :test\Dog_Borzoi\Borzoi_ (78).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9481075406074524
+ Test edilen :test\Dog_Borzoi\Borzoi_ (79).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9706519246101379
+ Test edilen :test\Dog_Borzoi\Borzoi_ (80).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9852221608161926
+ Test edilen :test\Dog_Boxer\Boxer_ (65).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9551217555999756
+ Test edilen :test\Dog_Boxer\Boxer_ (66).jpg
+ Test sonucu :dog boxer
+ Test orani :0.999206006526947
+ Test edilen :test\Dog_Boxer\Boxer_ (67).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9990610480308533
+ Test edilen :test\Dog_Boxer\Boxer_ (68).jpg
+ Test sonucu :dog boxer
+ Test orani :0.991902768611908
+ Test edilen :test\Dog_Boxer\Boxer_ (69).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9976043105125427
+ Test edilen :test\Dog_Boxer\Boxer_ (70).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.7273995280265808
+ Test edilen :test\Dog_Boxer\Boxer_ (71).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9986913800239563
+ Test edilen :test\Dog_Boxer\Boxer_ (72).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9987112283706665
+ Test edilen :test\Dog_Boxer\Boxer_ (73).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9992936849594116
+ Test edilen :test\Dog_Boxer\Boxer_ (74).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9847635626792908
+ Test edilen :test\Dog_Boxer\Boxer_ (75).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9941693544387817
+ Test edilen :test\Dog_Boxer\Boxer_ (76).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9994044303894043
+ Test edilen :test\Dog_Boxer\Boxer_ (77).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9996066689491272
+ Test edilen :test\Dog_Boxer\Boxer_ (78).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9989854693412781
+ Test edilen :test\Dog_Boxer\Boxer_ (79).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9615916013717651
+ Test edilen :test\Dog_Boxer\Boxer_ (80).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9948628544807434
+ Test edilen :test\Dog_Chow\Chow_ (65).jpg
+ Test sonucu :dog chow
+ Test orani :0.9970302581787109
+ Test edilen :test\Dog_Chow\Chow_ (66).jpg
+ Test sonucu :dog chow
+ Test orani :0.999041736125946
+ Test edilen :test\Dog_Chow\Chow_ (67).jpg
+ Test sonucu :dog chow
+ Test orani :0.9986440539360046
+ Test edilen :test\Dog_Chow\Chow_ (68).jpg
+ Test sonucu :dog chow
+ Test orani :0.9977962970733643
+ Test edilen :test\Dog_Chow\Chow_ (69).jpg
+ Test sonucu :dog chow
+ Test orani :0.9973626732826233
+ Test edilen :test\Dog_Chow\Chow_ (70).jpg
+ Test sonucu :dog chow
+ Test orani :0.9974080920219421
+ Test edilen :test\Dog_Chow\Chow_ (71).jpg
+ Test sonucu :dog chow
+ Test orani :0.9955442547798157
+ Test edilen :test\Dog_Chow\Chow_ (72).jpg
+ Test sonucu :dog chow
+ Test orani :0.9964558482170105
+ Test edilen :test\Dog_Chow\Chow_ (73).jpg
+ Test sonucu :dog chow
+ Test orani :0.9975557327270508
+ Test edilen :test\Dog_Chow\Chow_ (74).jpg
+ Test sonucu :dog chow
+ Test orani :0.9951057434082031
+ Test edilen :test\Dog_Chow\Chow_ (75).jpg
+ Test sonucu :dog chow
+ Test orani :0.9973371624946594
+ Test edilen :test\Dog_Chow\Chow_ (76).jpg
+ Test sonucu :dog chow
+ Test orani :0.9980271458625793
+ Test edilen :test\Dog_Chow\Chow_ (77).jpg
+ Test sonucu :dog chow
+ Test orani :0.9990355968475342
+ Test edilen :test\Dog_Chow\Chow_ (78).jpg
+ Test sonucu :dog chow
+ Test orani :0.9974055886268616
+ Test edilen :test\Dog_Chow\Chow_ (79).jpg
+ Test sonucu :dog chow
+ Test orani :0.9982231259346008
+ Test edilen :test\Dog_Chow\Chow_ (80).jpg
+ Test sonucu :dog chow
+ Test orani :0.9969410300254822
+ Test edilen :test\Dog_Doberman\Doberman_ (65).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9985188841819763
+ Test edilen :test\Dog_Doberman\Doberman_ (66).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9739853143692017
+ Test edilen :test\Dog_Doberman\Doberman_ (67).jpg
+ Test sonucu :dog doberman
+ Test orani :0.998439371585846
+ Test edilen :test\Dog_Doberman\Doberman_ (68).jpg
+ Test sonucu :dog doberman
+ Test orani :0.966394305229187
+ Test edilen :test\Dog_Doberman\Doberman_ (69).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9939141869544983
+ Test edilen :test\Dog_Doberman\Doberman_ (70).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9905387163162231
+ Test edilen :test\Dog_Doberman\Doberman_ (71).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9966486096382141
+ Test edilen :test\Dog_Doberman\Doberman_ (72).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9979603290557861
+ Test edilen :test\Dog_Doberman\Doberman_ (73).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9969407916069031
+ Test edilen :test\Dog_Doberman\Doberman_ (74).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9975757002830505
+ Test edilen :test\Dog_Doberman\Doberman_ (75).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9979320764541626
+ Test edilen :test\Dog_Doberman\Doberman_ (76).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9979096055030823
+ Test edilen :test\Dog_Doberman\Doberman_ (77).jpg
+ Test sonucu :dog doberman
+ Test orani :0.991127073764801
+ Test edilen :test\Dog_Doberman\Doberman_ (78).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9802253842353821
+ Test edilen :test\Dog_Doberman\Doberman_ (79).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9468706250190735
+ Test edilen :test\Dog_Doberman\Doberman_ (80).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9903574585914612
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (65).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9985017776489258
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (66).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9973604083061218
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (67).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.998144268989563
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (68).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9565714001655579
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (69).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9973426461219788
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (70).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9861993789672852
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (71).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.8535358905792236
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (72).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9970905780792236
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (73).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9226299524307251
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (74).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.995804488658905
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (75).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9254916310310364
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (76).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9955816864967346
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (77).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9990044236183167
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (78).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9839801788330078
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (79).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9987496137619019
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (80).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9674654006958008
+ Test edilen :test\Dog_Husky\Husky_ (65).jpg
+ Test sonucu :dog husky
+ Test orani :0.9995844960212708
+ Test edilen :test\Dog_Husky\Husky_ (66).jpg
+ Test sonucu :dog husky
+ Test orani :0.9923025369644165
+ Test edilen :test\Dog_Husky\Husky_ (67).jpg
+ Test sonucu :dog husky
+ Test orani :0.9966593980789185
+ Test edilen :test\Dog_Husky\Husky_ (68).jpg
+ Test sonucu :dog husky
+ Test orani :0.9988916516304016
+ Test edilen :test\Dog_Husky\Husky_ (69).jpg
+ Test sonucu :dog husky
+ Test orani :0.9988499879837036
+ Test edilen :test\Dog_Husky\Husky_ (70).jpg
+ Test sonucu :dog husky
+ Test orani :0.9990308284759521
+ Test edilen :test\Dog_Husky\Husky_ (71).jpg
+ Test sonucu :dog husky
+ Test orani :0.996839165687561
+ Test edilen :test\Dog_Husky\Husky_ (72).jpg
+ Test sonucu :dog husky
+ Test orani :0.9938284754753113
+ Test edilen :test\Dog_Husky\Husky_ (73).jpg
+ Test sonucu :dog husky
+ Test orani :0.998677670955658
+ Test edilen :test\Dog_Husky\Husky_ (74).jpg
+ Test sonucu :dog husky
+ Test orani :0.9934305548667908
+ Test edilen :test\Dog_Husky\Husky_ (75).jpg
+ Test sonucu :dog husky
+ Test orani :0.9976714253425598
+ Test edilen :test\Dog_Husky\Husky_ (76).jpg
+ Test sonucu :dog husky
+ Test orani :0.9981719255447388
+ Test edilen :test\Dog_Husky\Husky_ (77).jpg
+ Test sonucu :dog husky
+ Test orani :0.9954494833946228
+ Test edilen :test\Dog_Husky\Husky_ (78).jpg
+ Test sonucu :dog husky
+ Test orani :0.9859433174133301
+ Test edilen :test\Dog_Husky\Husky_ (79).jpg
+ Test sonucu :dog husky
+ Test orani :0.9985641837120056
+ Test edilen :test\Dog_Husky\Husky_ (80).jpg
+ Test sonucu :dog husky
+ Test orani :0.9982559084892273
+ Test edilen :test\Dog_Ibizan\Ibizan_ (65).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9983577132225037
+ Test edilen :test\Dog_Ibizan\Ibizan_ (66).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9990284442901611
+ Test edilen :test\Dog_Ibizan\Ibizan_ (67).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9994655251502991
+ Test edilen :test\Dog_Ibizan\Ibizan_ (68).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9977939128875732
+ Test edilen :test\Dog_Ibizan\Ibizan_ (69).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9986786246299744
+ Test edilen :test\Dog_Ibizan\Ibizan_ (70).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9900999665260315
+ Test edilen :test\Dog_Ibizan\Ibizan_ (71).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.7634488940238953
+ Test edilen :test\Dog_Ibizan\Ibizan_ (72).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9971820116043091
+ Test edilen :test\Dog_Ibizan\Ibizan_ (73).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9949683547019958
+ Test edilen :test\Dog_Ibizan\Ibizan_ (74).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9943926334381104
+ Test edilen :test\Dog_Ibizan\Ibizan_ (75).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9973166584968567
+ Test edilen :test\Dog_Ibizan\Ibizan_ (76).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9991242289543152
+ Test edilen :test\Dog_Ibizan\Ibizan_ (77).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9998524188995361
+ Test edilen :test\Dog_Ibizan\Ibizan_ (78).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9990284442901611
+ Test edilen :test\Dog_Ibizan\Ibizan_ (79).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.7080602049827576
+ Test edilen :test\Dog_Ibizan\Ibizan_ (80).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9971436858177185
+ Test edilen :test\Dog_Maltese\Maltese_ (65).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9971711039543152
+ Test edilen :test\Dog_Maltese\Maltese_ (66).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9971581697463989
+ Test edilen :test\Dog_Maltese\Maltese_ (67).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9992128610610962
+ Test edilen :test\Dog_Maltese\Maltese_ (68).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9989538192749023
+ Test edilen :test\Dog_Maltese\Maltese_ (69).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9498452544212341
+ Test edilen :test\Dog_Maltese\Maltese_ (70).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9979115128517151
+ Test edilen :test\Dog_Maltese\Maltese_ (71).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9992788434028625
+ Test edilen :test\Dog_Maltese\Maltese_ (72).jpg
+ Test sonucu :dog maltese
+ Test orani :0.999123752117157
+ Test edilen :test\Dog_Maltese\Maltese_ (73).jpg
+ Test sonucu :dog maltese
+ Test orani :0.6863880753517151
+ Test edilen :test\Dog_Maltese\Maltese_ (74).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9983172416687012
+ Test edilen :test\Dog_Maltese\Maltese_ (75).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9956488013267517
+ Test edilen :test\Dog_Maltese\Maltese_ (76).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9971897006034851
+ Test edilen :test\Dog_Maltese\Maltese_ (77).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9975250363349915
+ Test edilen :test\Dog_Maltese\Maltese_ (78).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9994194507598877
+ Test edilen :test\Dog_Maltese\Maltese_ (79).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9883686304092407
+ Test edilen :test\Dog_Maltese\Maltese_ (80).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.8928261399269104
+ Test edilen :test\Dog_Pug\Pug_ (65).jpg
+ Test sonucu :dog pug
+ Test orani :0.9988911747932434
+ Test edilen :test\Dog_Pug\Pug_ (66).jpg
+ Test sonucu :dog pug
+ Test orani :0.9320972561836243
+ Test edilen :test\Dog_Pug\Pug_ (67).jpg
+ Test sonucu :dog pug
+ Test orani :0.9990099668502808
+ Test edilen :test\Dog_Pug\Pug_ (68).jpg
+ Test sonucu :dog pug
+ Test orani :0.9919136762619019
+ Test edilen :test\Dog_Pug\Pug_ (69).jpg
+ Test sonucu :dog pug
+ Test orani :0.9991164803504944
+ Test edilen :test\Dog_Pug\Pug_ (70).jpg
+ Test sonucu :dog pug
+ Test orani :0.9984473586082458
+ Test edilen :test\Dog_Pug\Pug_ (71).jpg
+ Test sonucu :dog pug
+ Test orani :0.955578088760376
+ Test edilen :test\Dog_Pug\Pug_ (72).jpg
+ Test sonucu :dog pug
+ Test orani :0.9915847778320312
+ Test edilen :test\Dog_Pug\Pug_ (73).jpg
+ Test sonucu :dog pug
+ Test orani :0.9970327615737915
+ Test edilen :test\Dog_Pug\Pug_ (74).jpg
+ Test sonucu :dog pug
+ Test orani :0.9983975291252136
+ Test edilen :test\Dog_Pug\Pug_ (75).jpg
+ Test sonucu :dog pug
+ Test orani :0.99666827917099
+ Test edilen :test\Dog_Pug\Pug_ (76).jpg
+ Test sonucu :dog pug
+ Test orani :0.992003858089447
+ Test edilen :test\Dog_Pug\Pug_ (77).jpg
+ Test sonucu :dog pug
+ Test orani :0.9919799566268921
+ Test edilen :test\Dog_Pug\Pug_ (78).jpg
+ Test sonucu :dog pug
+ Test orani :0.9956516623497009
+ Test edilen :test\Dog_Pug\Pug_ (79).jpg
+ Test sonucu :dog pug
+ Test orani :0.9979377388954163
+ Test edilen :test\Dog_Pug\Pug_ (80).jpg
+ Test sonucu :dog pug
+ Test orani :0.998191773891449
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (65).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9988395571708679
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (66).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.997563362121582
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (67).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.998090922832489
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (68).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9996654987335205
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (69).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9987519979476929
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (70).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9988861680030823
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (71).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9992541670799255
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (72).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9982420206069946
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (73).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9382054209709167
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (74).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.8826283812522888
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (75).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.4280482530593872
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (76).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.997636079788208
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (77).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.998516857624054
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (78).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9981698989868164
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (79).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9984670281410217
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (80).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9992589354515076
+ Test edilen :test\Dog_Scottish\Scottish_ (65).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9972846508026123
+ Test edilen :test\Dog_Scottish\Scottish_ (66).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9844531416893005
+ Test edilen :test\Dog_Scottish\Scottish_ (67).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9976014494895935
+ Test edilen :test\Dog_Scottish\Scottish_ (68).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9956210255622864
+ Test edilen :test\Dog_Scottish\Scottish_ (69).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9982239603996277
+ Test edilen :test\Dog_Scottish\Scottish_ (70).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9961917400360107
+ Test edilen :test\Dog_Scottish\Scottish_ (71).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9971633553504944
+ Test edilen :test\Dog_Scottish\Scottish_ (72).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9945947527885437
+ Test edilen :test\Dog_Scottish\Scottish_ (73).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9740236401557922
+ Test edilen :test\Dog_Scottish\Scottish_ (74).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9954604506492615
+ Test edilen :test\Dog_Scottish\Scottish_ (75).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9952310919761658
+ Test edilen :test\Dog_Scottish\Scottish_ (76).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9957150816917419
+ Test edilen :test\Dog_Scottish\Scottish_ (77).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9961761236190796
+ Test edilen :test\Dog_Scottish\Scottish_ (78).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9970963001251221
+ Test edilen :test\Dog_Scottish\Scottish_ (79).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9959587454795837
+ Test edilen :test\Dog_Scottish\Scottish_ (80).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9796220064163208
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (65).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9870882034301758
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (66).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9981192946434021
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (67).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9985149502754211
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (68).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.993497371673584
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (69).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9988872408866882
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (70).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9986304044723511
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (71).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9931918978691101
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (72).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9989762306213379
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (73).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9973381161689758
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (74).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9136638045310974
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (75).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9241980910301208
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (76).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9887369275093079
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (77).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9987767338752747
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (78).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9817072749137878
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (79).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9615718722343445
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (80).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9947679042816162
+ Test edilen :test\Dog_Afghan\Afghan_ (65).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9967179894447327
+ Test edilen :test\Dog_Afghan\Afghan_ (66).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9986169338226318
+ Test edilen :test\Dog_Afghan\Afghan_ (67).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9971209168434143
+ Test edilen :test\Dog_Afghan\Afghan_ (68).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9814204573631287
+ Test edilen :test\Dog_Afghan\Afghan_ (69).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9935577511787415
+ Test edilen :test\Dog_Afghan\Afghan_ (70).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9985369443893433
+ Test edilen :test\Dog_Afghan\Afghan_ (71).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9972930550575256
+ Test edilen :test\Dog_Afghan\Afghan_ (72).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9974362254142761
+ Test edilen :test\Dog_Afghan\Afghan_ (73).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9900721311569214
+ Test edilen :test\Dog_Afghan\Afghan_ (74).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9960970282554626
+ Test edilen :test\Dog_Afghan\Afghan_ (75).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9983819723129272
+ Test edilen :test\Dog_Afghan\Afghan_ (76).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9956531524658203
+ Test edilen :test\Dog_Afghan\Afghan_ (77).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9969701766967773
+ Test edilen :test\Dog_Afghan\Afghan_ (78).jpg
+ Test sonucu :dog afghan
+ Test orani :0.996638298034668
+ Test edilen :test\Dog_Afghan\Afghan_ (79).jpg
+ Test sonucu :dog afghan
+ Test orani :0.9991173148155212
+ Test edilen :test\Dog_Afghan\Afghan_ (80).jpg
+ Test sonucu :dog afghan
+ Test orani :0.998584508895874
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (65).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.8942422270774841
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (66).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9970219731330872
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (67).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9591385126113892
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (68).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9992484450340271
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (69).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9750237464904785
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (70).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9962705373764038
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (71).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9991880059242249
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (72).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9939411878585815
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (73).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.995445966720581
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (74).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9995917677879333
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (75).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9652789235115051
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (76).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.992790937423706
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (77).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9783017635345459
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (78).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9963091015815735
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (79).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9956228137016296
+ Test edilen :test\Dog_AmericanStaff\Americanstaff_ (80).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.9981406927108765
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (65).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9930544495582581
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (66).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9962260723114014
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (67).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9984738230705261
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (68).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9980321526527405
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (69).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9990091323852539
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (70).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9947229623794556
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (71).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.993405818939209
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (72).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9959186911582947
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (73).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9977319240570068
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (74).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9960448145866394
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (75).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9940443634986877
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (76).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9983327984809875
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (77).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9975849390029907
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (78).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9972680807113647
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (79).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9982150793075562
+ Test edilen :test\Dog_AustralianTerrier\AustralianTerrier_ (80).jpg
+ Test sonucu :dog australianterrier
+ Test orani :0.9977021813392639
+ Test edilen :test\Dog_Beagle\Beagle_ (65).jpg
+ Test sonucu :dog beagle
+ Test orani :0.997948944568634
+ Test edilen :test\Dog_Beagle\Beagle_ (66).jpg
+ Test sonucu :dog beagle
+ Test orani :0.998229444026947
+ Test edilen :test\Dog_Beagle\Beagle_ (67).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9967973828315735
+ Test edilen :test\Dog_Beagle\Beagle_ (68).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9971146583557129
+ Test edilen :test\Dog_Beagle\Beagle_ (69).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9948246479034424
+ Test edilen :test\Dog_Beagle\Beagle_ (70).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9582271575927734
+ Test edilen :test\Dog_Beagle\Beagle_ (71).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9892204403877258
+ Test edilen :test\Dog_Beagle\Beagle_ (72).jpg
+ Test sonucu :dog beagle
+ Test orani :0.999110996723175
+ Test edilen :test\Dog_Beagle\Beagle_ (73).jpg
+ Test sonucu :dog beagle
+ Test orani :0.993501603603363
+ Test edilen :test\Dog_Beagle\Beagle_ (74).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9899739027023315
+ Test edilen :test\Dog_Beagle\Beagle_ (75).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9974926710128784
+ Test edilen :test\Dog_Beagle\Beagle_ (76).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9994588494300842
+ Test edilen :test\Dog_Beagle\Beagle_ (77).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9932472705841064
+ Test edilen :test\Dog_Beagle\Beagle_ (78).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9893171191215515
+ Test edilen :test\Dog_Beagle\Beagle_ (79).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9994151592254639
+ Test edilen :test\Dog_Beagle\Beagle_ (80).jpg
+ Test sonucu :dog beagle
+ Test orani :0.9859573841094971
+ Test edilen :test\Dog_Borzoi\Borzoi_ (65).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9960522651672363
+ Test edilen :test\Dog_Borzoi\Borzoi_ (66).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9975804090499878
+ Test edilen :test\Dog_Borzoi\Borzoi_ (67).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9984174966812134
+ Test edilen :test\Dog_Borzoi\Borzoi_ (68).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9993343949317932
+ Test edilen :test\Dog_Borzoi\Borzoi_ (69).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9994364380836487
+ Test edilen :test\Dog_Borzoi\Borzoi_ (70).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9989816546440125
+ Test edilen :test\Dog_Borzoi\Borzoi_ (71).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.994057297706604
+ Test edilen :test\Dog_Borzoi\Borzoi_ (72).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9983707070350647
+ Test edilen :test\Dog_Borzoi\Borzoi_ (73).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.995554506778717
+ Test edilen :test\Dog_Borzoi\Borzoi_ (74).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9991658926010132
+ Test edilen :test\Dog_Borzoi\Borzoi_ (75).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9974361062049866
+ Test edilen :test\Dog_Borzoi\Borzoi_ (76).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9875195026397705
+ Test edilen :test\Dog_Borzoi\Borzoi_ (77).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9965251088142395
+ Test edilen :test\Dog_Borzoi\Borzoi_ (78).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9481075406074524
+ Test edilen :test\Dog_Borzoi\Borzoi_ (79).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9706519246101379
+ Test edilen :test\Dog_Borzoi\Borzoi_ (80).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.9852221608161926
+ Test edilen :test\Dog_Boxer\Boxer_ (65).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9551217555999756
+ Test edilen :test\Dog_Boxer\Boxer_ (66).jpg
+ Test sonucu :dog boxer
+ Test orani :0.999206006526947
+ Test edilen :test\Dog_Boxer\Boxer_ (67).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9990610480308533
+ Test edilen :test\Dog_Boxer\Boxer_ (68).jpg
+ Test sonucu :dog boxer
+ Test orani :0.991902768611908
+ Test edilen :test\Dog_Boxer\Boxer_ (69).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9976043105125427
+ Test edilen :test\Dog_Boxer\Boxer_ (70).jpg
+ Test sonucu :dog americanstaff
+ Test orani :0.7273995280265808
+ Test edilen :test\Dog_Boxer\Boxer_ (71).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9986913800239563
+ Test edilen :test\Dog_Boxer\Boxer_ (72).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9987112283706665
+ Test edilen :test\Dog_Boxer\Boxer_ (73).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9992936849594116
+ Test edilen :test\Dog_Boxer\Boxer_ (74).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9847635626792908
+ Test edilen :test\Dog_Boxer\Boxer_ (75).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9941693544387817
+ Test edilen :test\Dog_Boxer\Boxer_ (76).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9994044303894043
+ Test edilen :test\Dog_Boxer\Boxer_ (77).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9996066689491272
+ Test edilen :test\Dog_Boxer\Boxer_ (78).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9989854693412781
+ Test edilen :test\Dog_Boxer\Boxer_ (79).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9615916013717651
+ Test edilen :test\Dog_Boxer\Boxer_ (80).jpg
+ Test sonucu :dog boxer
+ Test orani :0.9948628544807434
+ Test edilen :test\Dog_Chow\Chow_ (65).jpg
+ Test sonucu :dog chow
+ Test orani :0.9970302581787109
+ Test edilen :test\Dog_Chow\Chow_ (66).jpg
+ Test sonucu :dog chow
+ Test orani :0.999041736125946
+ Test edilen :test\Dog_Chow\Chow_ (67).jpg
+ Test sonucu :dog chow
+ Test orani :0.9986440539360046
+ Test edilen :test\Dog_Chow\Chow_ (68).jpg
+ Test sonucu :dog chow
+ Test orani :0.9977962970733643
+ Test edilen :test\Dog_Chow\Chow_ (69).jpg
+ Test sonucu :dog chow
+ Test orani :0.9973626732826233
+ Test edilen :test\Dog_Chow\Chow_ (70).jpg
+ Test sonucu :dog chow
+ Test orani :0.9974080920219421
+ Test edilen :test\Dog_Chow\Chow_ (71).jpg
+ Test sonucu :dog chow
+ Test orani :0.9955442547798157
+ Test edilen :test\Dog_Chow\Chow_ (72).jpg
+ Test sonucu :dog chow
+ Test orani :0.9964558482170105
+ Test edilen :test\Dog_Chow\Chow_ (73).jpg
+ Test sonucu :dog chow
+ Test orani :0.9975557327270508
+ Test edilen :test\Dog_Chow\Chow_ (74).jpg
+ Test sonucu :dog chow
+ Test orani :0.9951057434082031
+ Test edilen :test\Dog_Chow\Chow_ (75).jpg
+ Test sonucu :dog chow
+ Test orani :0.9973371624946594
+ Test edilen :test\Dog_Chow\Chow_ (76).jpg
+ Test sonucu :dog chow
+ Test orani :0.9980271458625793
+ Test edilen :test\Dog_Chow\Chow_ (77).jpg
+ Test sonucu :dog chow
+ Test orani :0.9990355968475342
+ Test edilen :test\Dog_Chow\Chow_ (78).jpg
+ Test sonucu :dog chow
+ Test orani :0.9974055886268616
+ Test edilen :test\Dog_Chow\Chow_ (79).jpg
+ Test sonucu :dog chow
+ Test orani :0.9982231259346008
+ Test edilen :test\Dog_Chow\Chow_ (80).jpg
+ Test sonucu :dog chow
+ Test orani :0.9969410300254822
+ Test edilen :test\Dog_Doberman\Doberman_ (65).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9985188841819763
+ Test edilen :test\Dog_Doberman\Doberman_ (66).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9739853143692017
+ Test edilen :test\Dog_Doberman\Doberman_ (67).jpg
+ Test sonucu :dog doberman
+ Test orani :0.998439371585846
+ Test edilen :test\Dog_Doberman\Doberman_ (68).jpg
+ Test sonucu :dog doberman
+ Test orani :0.966394305229187
+ Test edilen :test\Dog_Doberman\Doberman_ (69).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9939141869544983
+ Test edilen :test\Dog_Doberman\Doberman_ (70).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9905387163162231
+ Test edilen :test\Dog_Doberman\Doberman_ (71).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9966486096382141
+ Test edilen :test\Dog_Doberman\Doberman_ (72).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9979603290557861
+ Test edilen :test\Dog_Doberman\Doberman_ (73).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9969407916069031
+ Test edilen :test\Dog_Doberman\Doberman_ (74).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9975757002830505
+ Test edilen :test\Dog_Doberman\Doberman_ (75).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9979320764541626
+ Test edilen :test\Dog_Doberman\Doberman_ (76).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9979096055030823
+ Test edilen :test\Dog_Doberman\Doberman_ (77).jpg
+ Test sonucu :dog doberman
+ Test orani :0.991127073764801
+ Test edilen :test\Dog_Doberman\Doberman_ (78).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9802253842353821
+ Test edilen :test\Dog_Doberman\Doberman_ (79).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9468706250190735
+ Test edilen :test\Dog_Doberman\Doberman_ (80).jpg
+ Test sonucu :dog doberman
+ Test orani :0.9903574585914612
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (65).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9985017776489258
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (66).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9973604083061218
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (67).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.998144268989563
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (68).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9565714001655579
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (69).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9973426461219788
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (70).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9861993789672852
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (71).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.8535358905792236
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (72).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9970905780792236
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (73).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9226299524307251
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (74).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.995804488658905
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (75).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9254916310310364
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (76).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9955816864967346
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (77).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9990044236183167
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (78).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9839801788330078
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (79).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9987496137619019
+ Test edilen :test\Dog_FrenchBulldog\FrenchBulldog_ (80).jpg
+ Test sonucu :dog frenchbulldog
+ Test orani :0.9674654006958008
+ Test edilen :test\Dog_Husky\Husky_ (65).jpg
+ Test sonucu :dog husky
+ Test orani :0.9995844960212708
+ Test edilen :test\Dog_Husky\Husky_ (66).jpg
+ Test sonucu :dog husky
+ Test orani :0.9923025369644165
+ Test edilen :test\Dog_Husky\Husky_ (67).jpg
+ Test sonucu :dog husky
+ Test orani :0.9966593980789185
+ Test edilen :test\Dog_Husky\Husky_ (68).jpg
+ Test sonucu :dog husky
+ Test orani :0.9988916516304016
+ Test edilen :test\Dog_Husky\Husky_ (69).jpg
+ Test sonucu :dog husky
+ Test orani :0.9988499879837036
+ Test edilen :test\Dog_Husky\Husky_ (70).jpg
+ Test sonucu :dog husky
+ Test orani :0.9990308284759521
+ Test edilen :test\Dog_Husky\Husky_ (71).jpg
+ Test sonucu :dog husky
+ Test orani :0.996839165687561
+ Test edilen :test\Dog_Husky\Husky_ (72).jpg
+ Test sonucu :dog husky
+ Test orani :0.9938284754753113
+ Test edilen :test\Dog_Husky\Husky_ (73).jpg
+ Test sonucu :dog husky
+ Test orani :0.998677670955658
+ Test edilen :test\Dog_Husky\Husky_ (74).jpg
+ Test sonucu :dog husky
+ Test orani :0.9934305548667908
+ Test edilen :test\Dog_Husky\Husky_ (75).jpg
+ Test sonucu :dog husky
+ Test orani :0.9976714253425598
+ Test edilen :test\Dog_Husky\Husky_ (76).jpg
+ Test sonucu :dog husky
+ Test orani :0.9981719255447388
+ Test edilen :test\Dog_Husky\Husky_ (77).jpg
+ Test sonucu :dog husky
+ Test orani :0.9954494833946228
+ Test edilen :test\Dog_Husky\Husky_ (78).jpg
+ Test sonucu :dog husky
+ Test orani :0.9859433174133301
+ Test edilen :test\Dog_Husky\Husky_ (79).jpg
+ Test sonucu :dog husky
+ Test orani :0.9985641837120056
+ Test edilen :test\Dog_Husky\Husky_ (80).jpg
+ Test sonucu :dog husky
+ Test orani :0.9982559084892273
+ Test edilen :test\Dog_Ibizan\Ibizan_ (65).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9983577132225037
+ Test edilen :test\Dog_Ibizan\Ibizan_ (66).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9990284442901611
+ Test edilen :test\Dog_Ibizan\Ibizan_ (67).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9994655251502991
+ Test edilen :test\Dog_Ibizan\Ibizan_ (68).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9977939128875732
+ Test edilen :test\Dog_Ibizan\Ibizan_ (69).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9986786246299744
+ Test edilen :test\Dog_Ibizan\Ibizan_ (70).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9900999665260315
+ Test edilen :test\Dog_Ibizan\Ibizan_ (71).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.7634488940238953
+ Test edilen :test\Dog_Ibizan\Ibizan_ (72).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9971820116043091
+ Test edilen :test\Dog_Ibizan\Ibizan_ (73).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9949683547019958
+ Test edilen :test\Dog_Ibizan\Ibizan_ (74).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9943926334381104
+ Test edilen :test\Dog_Ibizan\Ibizan_ (75).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9973166584968567
+ Test edilen :test\Dog_Ibizan\Ibizan_ (76).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9991242289543152
+ Test edilen :test\Dog_Ibizan\Ibizan_ (77).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9998524188995361
+ Test edilen :test\Dog_Ibizan\Ibizan_ (78).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9990284442901611
+ Test edilen :test\Dog_Ibizan\Ibizan_ (79).jpg
+ Test sonucu :dog borzoi
+ Test orani :0.7080602049827576
+ Test edilen :test\Dog_Ibizan\Ibizan_ (80).jpg
+ Test sonucu :dog ibizan
+ Test orani :0.9971436858177185
+ Test edilen :test\Dog_Maltese\Maltese_ (65).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9971711039543152
+ Test edilen :test\Dog_Maltese\Maltese_ (66).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9971581697463989
+ Test edilen :test\Dog_Maltese\Maltese_ (67).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9992128610610962
+ Test edilen :test\Dog_Maltese\Maltese_ (68).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9989538192749023
+ Test edilen :test\Dog_Maltese\Maltese_ (69).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9498452544212341
+ Test edilen :test\Dog_Maltese\Maltese_ (70).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9979115128517151
+ Test edilen :test\Dog_Maltese\Maltese_ (71).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9992788434028625
+ Test edilen :test\Dog_Maltese\Maltese_ (72).jpg
+ Test sonucu :dog maltese
+ Test orani :0.999123752117157
+ Test edilen :test\Dog_Maltese\Maltese_ (73).jpg
+ Test sonucu :dog maltese
+ Test orani :0.6863880753517151
+ Test edilen :test\Dog_Maltese\Maltese_ (74).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9983172416687012
+ Test edilen :test\Dog_Maltese\Maltese_ (75).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9956488013267517
+ Test edilen :test\Dog_Maltese\Maltese_ (76).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9971897006034851
+ Test edilen :test\Dog_Maltese\Maltese_ (77).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9975250363349915
+ Test edilen :test\Dog_Maltese\Maltese_ (78).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9994194507598877
+ Test edilen :test\Dog_Maltese\Maltese_ (79).jpg
+ Test sonucu :dog maltese
+ Test orani :0.9883686304092407
+ Test edilen :test\Dog_Maltese\Maltese_ (80).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.8928261399269104
+ Test edilen :test\Dog_Pug\Pug_ (65).jpg
+ Test sonucu :dog pug
+ Test orani :0.9988911747932434
+ Test edilen :test\Dog_Pug\Pug_ (66).jpg
+ Test sonucu :dog pug
+ Test orani :0.9320972561836243
+ Test edilen :test\Dog_Pug\Pug_ (67).jpg
+ Test sonucu :dog pug
+ Test orani :0.9990099668502808
+ Test edilen :test\Dog_Pug\Pug_ (68).jpg
+ Test sonucu :dog pug
+ Test orani :0.9919136762619019
+ Test edilen :test\Dog_Pug\Pug_ (69).jpg
+ Test sonucu :dog pug
+ Test orani :0.9991164803504944
+ Test edilen :test\Dog_Pug\Pug_ (70).jpg
+ Test sonucu :dog pug
+ Test orani :0.9984473586082458
+ Test edilen :test\Dog_Pug\Pug_ (71).jpg
+ Test sonucu :dog pug
+ Test orani :0.955578088760376
+ Test edilen :test\Dog_Pug\Pug_ (72).jpg
+ Test sonucu :dog pug
+ Test orani :0.9915847778320312
+ Test edilen :test\Dog_Pug\Pug_ (73).jpg
+ Test sonucu :dog pug
+ Test orani :0.9970327615737915
+ Test edilen :test\Dog_Pug\Pug_ (74).jpg
+ Test sonucu :dog pug
+ Test orani :0.9983975291252136
+ Test edilen :test\Dog_Pug\Pug_ (75).jpg
+ Test sonucu :dog pug
+ Test orani :0.99666827917099
+ Test edilen :test\Dog_Pug\Pug_ (76).jpg
+ Test sonucu :dog pug
+ Test orani :0.992003858089447
+ Test edilen :test\Dog_Pug\Pug_ (77).jpg
+ Test sonucu :dog pug
+ Test orani :0.9919799566268921
+ Test edilen :test\Dog_Pug\Pug_ (78).jpg
+ Test sonucu :dog pug
+ Test orani :0.9956516623497009
+ Test edilen :test\Dog_Pug\Pug_ (79).jpg
+ Test sonucu :dog pug
+ Test orani :0.9979377388954163
+ Test edilen :test\Dog_Pug\Pug_ (80).jpg
+ Test sonucu :dog pug
+ Test orani :0.998191773891449
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (65).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9988395571708679
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (66).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.997563362121582
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (67).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.998090922832489
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (68).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9996654987335205
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (69).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9987519979476929
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (70).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9988861680030823
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (71).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9992541670799255
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (72).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9982420206069946
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (73).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9382054209709167
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (74).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.8826283812522888
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (75).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.4280482530593872
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (76).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.997636079788208
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (77).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.998516857624054
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (78).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9981698989868164
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (79).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9984670281410217
+ Test edilen :test\Dog_Rottweiler\Rottweiler_ (80).jpg
+ Test sonucu :dog rottweiler
+ Test orani :0.9992589354515076
+ Test edilen :test\Dog_Scottish\Scottish_ (65).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9972846508026123
+ Test edilen :test\Dog_Scottish\Scottish_ (66).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9844531416893005
+ Test edilen :test\Dog_Scottish\Scottish_ (67).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9976014494895935
+ Test edilen :test\Dog_Scottish\Scottish_ (68).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9956210255622864
+ Test edilen :test\Dog_Scottish\Scottish_ (69).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9982239603996277
+ Test edilen :test\Dog_Scottish\Scottish_ (70).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9961917400360107
+ Test edilen :test\Dog_Scottish\Scottish_ (71).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9971633553504944
+ Test edilen :test\Dog_Scottish\Scottish_ (72).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9945947527885437
+ Test edilen :test\Dog_Scottish\Scottish_ (73).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9740236401557922
+ Test edilen :test\Dog_Scottish\Scottish_ (74).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9954604506492615
+ Test edilen :test\Dog_Scottish\Scottish_ (75).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9952310919761658
+ Test edilen :test\Dog_Scottish\Scottish_ (76).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9957150816917419
+ Test edilen :test\Dog_Scottish\Scottish_ (77).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9961761236190796
+ Test edilen :test\Dog_Scottish\Scottish_ (78).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9970963001251221
+ Test edilen :test\Dog_Scottish\Scottish_ (79).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9959587454795837
+ Test edilen :test\Dog_Scottish\Scottish_ (80).jpg
+ Test sonucu :dog scottish
+ Test orani :0.9796220064163208
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (65).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9870882034301758
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (66).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9981192946434021
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (67).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9985149502754211
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (68).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.993497371673584
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (69).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9988872408866882
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (70).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9986304044723511
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (71).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9931918978691101
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (72).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9989762306213379
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (73).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9973381161689758
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (74).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9136638045310974
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (75).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9241980910301208
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (76).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9887369275093079
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (77).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9987767338752747
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (78).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9817072749137878
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (79).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9615718722343445
+ Test edilen :test\Dog_ToyPoodle\ToyPoodle_ (80).jpg
+ Test sonucu :dog toypoodle
+ Test orani :0.9947679042816162

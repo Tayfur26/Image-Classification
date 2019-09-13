@@ -1,0 +1,1 @@
+python train.py --bottleneck_dir=log/bottlenecks --how_many_training_steps=100 --model_dir=inception --summaries_dir=log/training_summaries/basic --output_graph=log/trained_graph.pb --output_labels=log/trained_labels.txt --image_dir=./train
